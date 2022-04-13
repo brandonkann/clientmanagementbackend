@@ -1,0 +1,57 @@
+[
+    {
+        "_id": "61d51071ec507cc3d386288d",
+        "user": "61d510cc2c11e9245c4adfa3",
+        "name": "Captain America", 
+        "clientDescription": "Avengers leader who is strong af",
+        "phone": "(123)-456-7890",
+        "email": "steverogers@gmail.com",
+        "occupation": "Avenger",
+        "clientPriority": "low",
+        "address": "124-1290 Avengers tower New York"
+    }, 
+    {
+        "_id": "61d512aaccf722d830959828",
+        "user": "61d510cc2c11e9245c4adfa3",
+        "name": "Iron Man", 
+        "clientDescription": "Rich Avenger",
+        "phone": "(123)-456-7890",
+        "email": "tonystark@gmail.com",
+        "occupation": "Avenger",
+        "clientPriority": "medium",
+        "address": "124-1203 Stark tower New York"
+    },
+    {
+        "_id": "61d512f00eced63d928cfc7d",
+        "user": "61d510cc2c11e9245c4adfa3",
+        "name": "Hulk", 
+        "clientDescription": "Strongest Avenger?",
+        "phone": "(123)-456-7890",
+        "email": "BruceBanner@gmail.com",
+        "occupation": "Avenger",
+        "clientPriority": "high",
+        "address": "124-1290 Avengers tower New York"
+    },
+    {
+        "_id": "61d5131d8ccd9d75e2bac2b4",
+        "user": "61d513215734a92db4659106",
+        "name": "Thor", 
+        "clientDescription": "Alien who is op af",
+        "phone": "(123)-456-7890",
+        "email": "thorodinson@gmail.com",
+        "occupation": "Avenger",
+        "clientPriority": "low",
+        "address": "Asgard"
+    },
+    {
+        "_id": "61d5134eb010412db80a4264",
+        "user": "61d51353305e8b2fc780afe1",
+        "name": "Hawkeye", 
+        "clientDescription": "Avengers leader who is strong af",
+        "phone": "(123)-456-7890",
+        "email": "clintbarton@gmail.com",
+        "occupation": "Weak Avenger",
+        "clientPriority": "low",
+        "address": "124-1290 Avengers tower New York"
+    }
+]
